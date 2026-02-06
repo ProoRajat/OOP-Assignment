@@ -49,5 +49,7 @@ public class NumClassification {
         numMath.checkPositiveNegativeZero();
         numMath.checkEvenOdd();
         numMath.checkDivisiblity();
+
+        sc.close();
     }
 }
